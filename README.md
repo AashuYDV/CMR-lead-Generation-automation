@@ -158,4 +158,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For questions or suggestions, contact me at `aymenMir1001@gmail.com`.
+Aashutosh Yadav
+Author 
+NIT Bhopal
